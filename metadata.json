@@ -1,0 +1,6 @@
+{
+  "name": "JEE",
+  "description": "JEE (Joint Entrance Examination) exam preparation tracker with days countdown, syllabus progress, and PD/FD topic completion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
